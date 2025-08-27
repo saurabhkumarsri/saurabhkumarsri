@@ -1,4 +1,5 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Software Developer">
 
 <h1 align="center">Hi 👋, I'm Saurabh Srivastwa</h1>
 <h3 align="center">🚀 Full Stack Ruby on Rails Developer | Passionate About Building Scalable Web Apps</h3>
